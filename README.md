@@ -1,1 +1,4 @@
-# 50things
+# Fifty Things
+
+## Overview:
+Fifty Things is an application made to help users identify the positive things in their lives. Each day Fifty Things will prompt the user to answer 4 relatively straight forward questions: 3 questions along the lines of "what are they grateful for today", "what are you excited about", "what made you happy today", and then 1 question simply asking them to rate their day out of 10. At the end of the month and year, users will receive recaps of how their months/years went allowing them to see all of the positive highlights they had. Additionally, Fifty Things will provide statistics about the user's month/year.
